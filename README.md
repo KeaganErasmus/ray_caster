@@ -1,4 +1,4 @@
-#Simple Ray Tracer
+# Simple Ray Tracer
 
-##How to run
+## How to run
 cargo run > image.ppm
